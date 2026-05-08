@@ -1,5 +1,15 @@
 {
+  "timestamp": "2026-05-08T13:00:00Z",
   "opportunities": [
+    {
+      "id": "NePSieQjurGeJpBmBkuB",
+      "name": "Hartzell - Drew",
+      "pipelineId": "19Y3efsn6LZZwMczOPkR",
+      "pipelineStageId": "fa5da88f-b07b-4472-98da-e88a27abfd8f",
+      "monetaryValue": 0,
+      "createdAt": "2026-05-07T20:36:06.302Z",
+      "status": "open"
+    },
     {
       "id": "MJizPedHcId0CEpiMD9S",
       "name": "Ocean III - Kristal (APM) ",
@@ -889,15 +899,6 @@
       "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
       "createdAt": "2026-04-10T00:53:14.213Z",
-      "status": "open"
-    },
-    {
-      "id": "m5Vv0donUznOSgO53kxo",
-      "name": "Quantum Era - Dubreska",
-      "pipelineId": "V97QpGCgXnrDJw2W0TIU",
-      "pipelineStageId": "e9f102af-cb2b-45b6-bf09-073347f9af4c",
-      "monetaryValue": 0,
-      "createdAt": "2026-04-10T00:52:16.026Z",
       "status": "open"
     }
   ]
