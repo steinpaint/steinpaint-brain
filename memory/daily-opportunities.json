@@ -1,905 +1,1260 @@
 {
-  "timestamp": "2026-05-08T13:00:00Z",
   "opportunities": [
+    {
+      "id": "NXptC4BQauDYybbOcU27",
+      "name": "Paraiso Bay Master - Pablo Santana (CE) ",
+      "monetaryValue": 0,
+      "pipelineId": "B6jVHTjq0sru94008PyY",
+      "stageId": "7950faa6-205d-4309-a0fd-0d06af2ec4c2",
+      "pipelineName": "MAINTENANCE - CENTRAL MIAMI - O",
+      "stageName": "PRICE LIST OR APPLICATION SENT ",
+      "createdAt": "2026-05-08T18:46:50.331Z",
+      "updatedAt": "2026-05-08T18:46:50.331Z",
+      "contactName": "Pablo Santana"
+    },
+    {
+      "id": "2YcKXnzPCW2Jf5uGBBDs",
+      "name": "Villa De Mare - Jefferson (Ce)",
+      "monetaryValue": 0,
+      "pipelineId": "dU5yApAuRdXXAmmDcFQC",
+      "stageId": "3ef2ba9b-476f-4a1d-9712-70597933c76b",
+      "pipelineName": "MAINTENANCE - MIAMI BEACH - O",
+      "stageName": "SENT",
+      "createdAt": "2026-05-08T16:42:14.541Z",
+      "updatedAt": "2026-05-08T16:42:15.206Z",
+      "contactName": "Jefferson"
+    },
     {
       "id": "NePSieQjurGeJpBmBkuB",
       "name": "Hartzell - Drew",
-      "pipelineId": "19Y3efsn6LZZwMczOPkR",
-      "pipelineStageId": "fa5da88f-b07b-4472-98da-e88a27abfd8f",
       "monetaryValue": 0,
+      "pipelineId": "19Y3efsn6LZZwMczOPkR",
+      "stageId": "fa5da88f-b07b-4472-98da-e88a27abfd8f",
+      "pipelineName": "CONTRACTOR - TIER 1 - (CREDIT ACCOUNTS)",
+      "stageName": "MONTHLY CHECK IN #5",
       "createdAt": "2026-05-07T20:36:06.302Z",
-      "status": "open"
+      "updatedAt": "2026-05-07T20:36:06.302Z",
+      "contactName": "drew"
     },
     {
       "id": "MJizPedHcId0CEpiMD9S",
       "name": "Ocean III - Kristal (APM) ",
-      "pipelineId": "NJqkYaSRgA7sYbZZ70Kf",
-      "pipelineStageId": "c9b56596-c3de-46a4-88b1-93925ea1b9c6",
       "monetaryValue": 0,
+      "pipelineId": "NJqkYaSRgA7sYbZZ70Kf",
+      "stageId": "c9b56596-c3de-46a4-88b1-93925ea1b9c6",
+      "pipelineName": "MAINTENANCE - NORTH MIAMI BEACH - 0",
+      "stageName": "SENT",
       "createdAt": "2026-05-05T15:52:29.439Z",
-      "status": "open"
+      "updatedAt": "2026-05-05T15:52:30.128Z",
+      "contactName": "KRISTAL MEDEROS"
     },
     {
       "id": "gSKRMNzGfuD1fUnavtgv",
       "name": "Pinnacle Condo - Jose ",
-      "pipelineId": "NJqkYaSRgA7sYbZZ70Kf",
-      "pipelineStageId": "5cc60ac5-afa6-4d6c-9ae7-f0fcd4d964b6",
       "monetaryValue": 0,
+      "pipelineId": "NJqkYaSRgA7sYbZZ70Kf",
+      "stageId": "5cc60ac5-afa6-4d6c-9ae7-f0fcd4d964b6",
+      "pipelineName": "MAINTENANCE - NORTH MIAMI BEACH - 0",
+      "stageName": "MADE CONTACT W DESCION MAKER ",
       "createdAt": "2026-05-05T15:30:01.510Z",
-      "status": "open"
+      "updatedAt": "2026-05-05T15:30:01.510Z",
+      "contactName": "JOSE GONZALEZ H."
     },
     {
       "id": "n292xoQQdWfvxn0refdV",
       "name": "South Coast Restoration - Reggie Teixeira ",
-      "pipelineId": "V97QpGCgXnrDJw2W0TIU",
-      "pipelineStageId": "e9f102af-cb2b-45b6-bf09-073347f9af4c",
       "monetaryValue": 0,
+      "pipelineId": "V97QpGCgXnrDJw2W0TIU",
+      "stageId": "e9f102af-cb2b-45b6-bf09-073347f9af4c",
+      "pipelineName": "CONTRACTOR - TIER 2 - (CANDIDATES FOR TIER 1)",
+      "stageName": "MONTHLY CHECK IN #4",
       "createdAt": "2026-04-30T18:04:53.513Z",
-      "status": "open"
+      "updatedAt": "2026-04-30T18:04:53.513Z",
+      "contactName": "Reggie Teixeira"
     },
     {
       "id": "V521eroFwV891NdJk52j",
       "name": "Falcon Painting ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-24T19:50:09.533Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:48:38.677Z",
+      "contactName": "7542138294"
     },
     {
       "id": "NsZENhLQ6jNWzJqsbb1q",
       "name": "JC contracting - Patricia Mart\u00ednez (Purchaing) ",
-      "pipelineId": "V97QpGCgXnrDJw2W0TIU",
-      "pipelineStageId": "e9f102af-cb2b-45b6-bf09-073347f9af4c",
       "monetaryValue": 0,
+      "pipelineId": "V97QpGCgXnrDJw2W0TIU",
+      "stageId": "e9f102af-cb2b-45b6-bf09-073347f9af4c",
+      "pipelineName": "CONTRACTOR - TIER 2 - (CANDIDATES FOR TIER 1)",
+      "stageName": "MONTHLY CHECK IN #4",
       "createdAt": "2026-04-24T19:44:29.491Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T19:44:29.491Z",
+      "contactName": "Patricia Mart\u00ednez"
     },
     {
       "id": "YJm9jS94dBPGE0HMb4Su",
       "name": "Watermarc At Biscayne Bay",
-      "pipelineId": "B6jVHTjq0sru94008PyY",
-      "pipelineStageId": "38b63fde-103c-4698-845c-9193a8b000e8",
       "monetaryValue": 0,
+      "pipelineId": "B6jVHTjq0sru94008PyY",
+      "stageId": "38b63fde-103c-4698-845c-9193a8b000e8",
+      "pipelineName": "MAINTENANCE - CENTRAL MIAMI - O",
+      "stageName": "LOST",
       "createdAt": "2026-04-24T16:24:09.001Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T16:24:09.001Z",
+      "contactName": "Watermarc At Biscayne Bay"
     },
     {
       "id": "y7lWFVjcGojD40lOqLVl",
       "name": "Jade Beach - Omar (CE) ",
-      "pipelineId": "NJqkYaSRgA7sYbZZ70Kf",
-      "pipelineStageId": "5cc60ac5-afa6-4d6c-9ae7-f0fcd4d964b6",
       "monetaryValue": 0,
+      "pipelineId": "NJqkYaSRgA7sYbZZ70Kf",
+      "stageId": "5cc60ac5-afa6-4d6c-9ae7-f0fcd4d964b6",
+      "pipelineName": "MAINTENANCE - NORTH MIAMI BEACH - 0",
+      "stageName": "MADE CONTACT W DESCION MAKER ",
       "createdAt": "2026-04-23T18:05:38.690Z",
-      "status": "open"
+      "updatedAt": "2026-04-23T18:05:45.646Z",
+      "contactName": "Omar"
     },
     {
       "id": "SWQniU3ziBi5Fcr8WLoe",
       "name": "Jade Signiture - PAUL DEJESUS (CE) ",
-      "pipelineId": "NJqkYaSRgA7sYbZZ70Kf",
-      "pipelineStageId": "da3a856b-8af2-4fba-8531-58fd5cef596f",
       "monetaryValue": 0,
+      "pipelineId": "NJqkYaSRgA7sYbZZ70Kf",
+      "stageId": "da3a856b-8af2-4fba-8531-58fd5cef596f",
+      "pipelineName": "MAINTENANCE - NORTH MIAMI BEACH - 0",
+      "stageName": "PROSPECTS",
       "createdAt": "2026-04-23T17:58:41.390Z",
-      "status": "open"
+      "updatedAt": "2026-04-23T17:59:32.905Z",
+      "contactName": "PAUL DEJESUS"
     },
     {
       "id": "s2NqbnOvOLfmp9pzsuaS",
       "name": "Sunny Hotel - Jonathan (DOE) ",
-      "pipelineId": "NJqkYaSRgA7sYbZZ70Kf",
-      "pipelineStageId": "2f56b555-b6ee-432e-9cb5-7db5cd8b8a6e",
       "monetaryValue": 0,
+      "pipelineId": "NJqkYaSRgA7sYbZZ70Kf",
+      "stageId": "2f56b555-b6ee-432e-9cb5-7db5cd8b8a6e",
+      "pipelineName": "MAINTENANCE - NORTH MIAMI BEACH - 0",
+      "stageName": "LOST",
       "createdAt": "2026-04-23T17:37:00.193Z",
-      "status": "open"
+      "updatedAt": "2026-04-23T17:37:32.995Z",
+      "contactName": "Jonathan Hernandez"
     },
     {
       "id": "l4V7BWOxu57JJFWYOVj1",
       "name": "Jonas Professional Painting - Chris Lead ",
-      "pipelineId": "V97QpGCgXnrDJw2W0TIU",
-      "pipelineStageId": "e9f102af-cb2b-45b6-bf09-073347f9af4c",
       "monetaryValue": 0,
+      "pipelineId": "V97QpGCgXnrDJw2W0TIU",
+      "stageId": "e9f102af-cb2b-45b6-bf09-073347f9af4c",
+      "pipelineName": "CONTRACTOR - TIER 2 - (CANDIDATES FOR TIER 1)",
+      "stageName": "MONTHLY CHECK IN #4",
       "createdAt": "2026-04-23T01:22:04.326Z",
-      "status": "open"
+      "updatedAt": "2026-04-23T01:22:04.326Z",
+      "contactName": "Jonas"
     },
     {
       "id": "z6wAqiyelSGtYmxjwgUh",
       "name": "Gator Investments - John Reed",
-      "pipelineId": "2x6MFEaX3372cRofcc6I",
-      "pipelineStageId": "2eb4808a-477e-4c68-ac75-aa9fb12bf424",
       "monetaryValue": 0,
+      "pipelineId": "2x6MFEaX3372cRofcc6I",
+      "stageId": "2eb4808a-477e-4c68-ac75-aa9fb12bf424",
+      "pipelineName": "MAINTENANCE - REGIONAL ACCOUNTS",
+      "stageName": "Prospects ",
       "createdAt": "2026-04-23T01:20:13.473Z",
-      "status": "open"
+      "updatedAt": "2026-04-23T01:20:13.916Z",
+      "contactName": "John Reed"
     },
     {
       "id": "XqSElsJvOgja2k2KjApy",
       "name": "JMJ - Javier Ramirez (PRES) ",
-      "pipelineId": "V97QpGCgXnrDJw2W0TIU",
-      "pipelineStageId": "e9f102af-cb2b-45b6-bf09-073347f9af4c",
       "monetaryValue": 0,
+      "pipelineId": "V97QpGCgXnrDJw2W0TIU",
+      "stageId": "e9f102af-cb2b-45b6-bf09-073347f9af4c",
+      "pipelineName": "CONTRACTOR - TIER 2 - (CANDIDATES FOR TIER 1)",
+      "stageName": "MONTHLY CHECK IN #4",
       "createdAt": "2026-04-22T17:10:03.816Z",
-      "status": "open"
+      "updatedAt": "2026-04-22T17:10:03.816Z",
+      "contactName": "Javier Ramirez"
     },
     {
       "id": "ZyeFIQt8fq2WLCp8rXKX",
       "name": "Gimeza - Mercedes (PM) ",
-      "pipelineId": "J3UQFNLlWAKLMBJXpsir",
-      "pipelineStageId": "8a8bb443-73ed-4804-9dad-d20ef0fe77eb",
       "monetaryValue": 0,
+      "pipelineId": "J3UQFNLlWAKLMBJXpsir",
+      "stageId": "8a8bb443-73ed-4804-9dad-d20ef0fe77eb",
+      "pipelineName": "MAINTENANCE - CENTRAL MIAMI - R",
+      "stageName": "MONTHLY CHECK-IN - 4.5",
       "createdAt": "2026-04-22T15:30:13.805Z",
-      "status": "open"
+      "updatedAt": "2026-05-02T20:01:15.715Z",
+      "contactName": "mercedes"
     },
     {
       "id": "ao5E5GhqjzQ7iaMaaKQq",
       "name": "Dylan  Website Inquiry",
-      "pipelineId": "Y4Fyeg9CzwJUcNZLT11h",
-      "pipelineStageId": "797d61dc-a9aa-4b68-aee1-6787c7fe5880",
       "monetaryValue": 0,
+      "pipelineId": "Y4Fyeg9CzwJUcNZLT11h",
+      "stageId": "797d61dc-a9aa-4b68-aee1-6787c7fe5880",
+      "pipelineName": "XSALES - B2C - STORE",
+      "stageName": "Prospect",
       "createdAt": "2026-04-20T15:24:28.544Z",
-      "status": "open"
+      "updatedAt": "2026-04-20T15:24:28.544Z",
+      "contactName": "Dylan Scherer"
     },
     {
       "id": "IKYGeT15C4wlw53lMU5n",
       "name": "Murano Grande - JC (CE) ",
-      "pipelineId": "dU5yApAuRdXXAmmDcFQC",
-      "pipelineStageId": "5eae4566-e3ac-4d84-bf71-20c9d9104938",
       "monetaryValue": 0,
+      "pipelineId": "dU5yApAuRdXXAmmDcFQC",
+      "stageId": "5eae4566-e3ac-4d84-bf71-20c9d9104938",
+      "pipelineName": "MAINTENANCE - MIAMI BEACH - O",
+      "stageName": "MADE CONTACT W/ DECSION MAKER",
       "createdAt": "2026-04-16T16:52:53.309Z",
-      "status": "open"
+      "updatedAt": "2026-04-16T22:11:34.171Z",
+      "contactName": "Jc"
     },
     {
       "id": "1hgzRLl9fdvc4wCGVrvq",
       "name": "Murano At Portofino - Engineer",
-      "pipelineId": "dU5yApAuRdXXAmmDcFQC",
-      "pipelineStageId": "3ef2ba9b-476f-4a1d-9712-70597933c76b",
       "monetaryValue": 0,
+      "pipelineId": "dU5yApAuRdXXAmmDcFQC",
+      "stageId": "3ef2ba9b-476f-4a1d-9712-70597933c76b",
+      "pipelineName": "MAINTENANCE - MIAMI BEACH - O",
+      "stageName": "SENT",
       "createdAt": "2026-04-16T16:29:15.152Z",
-      "status": "open"
+      "updatedAt": "2026-04-23T01:06:52.380Z",
+      "contactName": "Murano at Portofino"
     },
     {
       "id": "UnIAzY8SNX9xbY7MtmSm",
       "name": "Valcourt - Priscilla Catano (BD) ",
-      "pipelineId": "V97QpGCgXnrDJw2W0TIU",
-      "pipelineStageId": "e9f102af-cb2b-45b6-bf09-073347f9af4c",
       "monetaryValue": 0,
+      "pipelineId": "V97QpGCgXnrDJw2W0TIU",
+      "stageId": "e9f102af-cb2b-45b6-bf09-073347f9af4c",
+      "pipelineName": "CONTRACTOR - TIER 2 - (CANDIDATES FOR TIER 1)",
+      "stageName": "MONTHLY CHECK IN #4",
       "createdAt": "2026-04-16T12:34:33.464Z",
-      "status": "open"
+      "updatedAt": "2026-04-16T12:34:42.974Z",
+      "contactName": "Priscilla Catano"
     },
     {
       "id": "g04wBSXkUZPDHaYSukQI",
       "name": "Craig Website Inquiry",
-      "pipelineId": "Y4Fyeg9CzwJUcNZLT11h",
-      "pipelineStageId": "797d61dc-a9aa-4b68-aee1-6787c7fe5880",
       "monetaryValue": 0,
+      "pipelineId": "Y4Fyeg9CzwJUcNZLT11h",
+      "stageId": "797d61dc-a9aa-4b68-aee1-6787c7fe5880",
+      "pipelineName": "XSALES - B2C - STORE",
+      "stageName": "Prospect",
       "createdAt": "2026-04-15T16:55:54.304Z",
-      "status": "open"
+      "updatedAt": "2026-04-15T16:55:54.304Z",
+      "contactName": "Craig Stephenson"
     },
     {
       "id": "K4IgMwnvRFQTZriFSIEd",
       "name": "Tanner Mcdonald",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:27:46.350Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:52:39.340Z",
+      "contactName": "Tanner Mcdonald"
     },
     {
       "id": "ebX7qzbVW9F3ZeAxYCxQ",
       "name": "SG Paint - Gio",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:25:36.597Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:52:23.659Z",
+      "contactName": "Gio"
     },
     {
       "id": "GcnuLvMRigB19xScqDEk",
       "name": "Oscar Palencia",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:23:50.087Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:51:24.686Z",
+      "contactName": "Oscar Palencia"
     },
     {
       "id": "V42bNO7p0SXgfyZnE2dR",
       "name": "Ap Strad - Pablo ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:22:32.572Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:37:55.440Z",
+      "contactName": "Ap Strad"
     },
     {
       "id": "U8ETNO6apDvWuAdwoAc1",
       "name": "Juan Pablo Vargas",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:20:28.722Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:47:42.722Z",
+      "contactName": "Juan Pablo Vargas"
     },
     {
       "id": "IoMBGKSml0r46T99hVyl",
       "name": "Flores Multi-Service",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:19:03.956Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:46:03.997Z",
+      "contactName": "Flores Multi-Service"
     },
     {
       "id": "929tadComp5uP5H8WO9M",
       "name": "Capital Glass - Napoleon Alvarez",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:17:31.421Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:43:53.291Z",
+      "contactName": "Napoleon Alvarez"
     },
     {
       "id": "xJ4ruRUCaeTKLHpJapYA",
       "name": "Team Garcia - Edgar ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:15:54.102Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:52:44.588Z",
+      "contactName": "Edgar Garcia"
     },
     {
       "id": "kXNfawyluOKmBPysDlLj",
       "name": "Espinosa Corp - Freddy",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:13:59.968Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:45:32.753Z",
+      "contactName": "Freddy"
     },
     {
       "id": "dPlwMb4Y0lLiPZ5oEz9L",
       "name": "Fine Art Painting - Jorge Vasconcelos",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:11:42.748Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:46:07.138Z",
+      "contactName": "Jorge Vasconcelos"
     },
     {
       "id": "Eu6wO9XChP1AoaEVnHCX",
       "name": "Levin Martinez",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:07:51.214Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:48:00.022Z",
+      "contactName": "Levin Martinez"
     },
     {
       "id": "zT0lAWSwdy1RmLvap41z",
       "name": "Miami L Construction - Luis ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:03:45.975Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:49:50.164Z",
+      "contactName": "Miami L Construction Inc."
     },
     {
       "id": "9YCZ2f0kZDAQUE0O5Lhf",
       "name": "Oberfer Consulting - Yuri ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:02:14.799Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:51:12.559Z",
+      "contactName": "Oberfer Consulting"
     },
     {
       "id": "ezLa3HQxg6oomV6wEted",
       "name": "Juan Painting ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T23:00:47.214Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:47:50.741Z",
+      "contactName": "Juan"
     },
     {
       "id": "bxzVeJV6H1KJk6yHSjbT",
       "name": "Gonztruction.Llc",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:58:23.037Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:46:49.218Z",
+      "contactName": "Gonztruction.Llc"
     },
     {
       "id": "WTUVakKYifML9ismv8x1",
       "name": "Gregory Vorja",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:56:13.774Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:46:42.652Z",
+      "contactName": "Gregory Vorja"
     },
     {
       "id": "ZnLcDvTFpEDoxPcxB7FD",
       "name": "Magdiel Guillemi",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:54:15.852Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:48:20.145Z",
+      "contactName": "Magdiel Guillemi"
     },
     {
       "id": "nDW8MzzqR79HttYxGWVP",
       "name": "BDL International - Bairon",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:51:37.231Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:37:48.073Z",
+      "contactName": "Bairon"
     },
     {
       "id": "8sJ1AVetrwYceZf3pRM8",
       "name": "Martin Pinilla",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:49:57.060Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:49:14.907Z",
+      "contactName": "Martin Pinilla"
     },
     {
       "id": "WrRbwleTdqRAldClhRsK",
       "name": "Netherland Condo - Ian (CE) ",
-      "pipelineId": "9SPH79ZkpyM1RoTg63ip",
-      "pipelineStageId": "14a1d79b-b5fb-49ee-bf13-a857fd1f1235",
       "monetaryValue": 0,
+      "pipelineId": "9SPH79ZkpyM1RoTg63ip",
+      "stageId": "14a1d79b-b5fb-49ee-bf13-a857fd1f1235",
+      "pipelineName": "MAINTENANCE - MIAMI BEACH - R",
+      "stageName": "MONTHLY CHECK-IN - 1",
       "createdAt": "2026-04-13T22:48:23.707Z",
-      "status": "open"
+      "updatedAt": "2026-04-23T21:30:25.656Z",
+      "contactName": "Ian Ian"
     },
     {
       "id": "nlKvizVgSdYVwPNhcFh5",
       "name": "Pablo Gonzalez",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:47:02.332Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:51:28.782Z",
+      "contactName": "pablo gonzalez"
     },
     {
       "id": "yqpp1MZZL72xpKZ1PQdQ",
       "name": "A1A - Brenda",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:45:07.848Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:36:35.566Z",
+      "contactName": "Brenda"
     },
     {
       "id": "Vsqqu3v0yHdGGoQRqFSZ",
       "name": "Decor Art Painting - Henry Mateous",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:42:26.124Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:44:57.941Z",
+      "contactName": "Henry Mateous"
     },
     {
       "id": "rY3BeRvD6vfLI7lKi40I",
       "name": "G&C Services - Gerzain Caicedo",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:40:05.203Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:46:18.013Z",
+      "contactName": "Gerzain Caicedo"
     },
     {
       "id": "AR8q730v56HXiQETdfeC",
       "name": "Maikel Rodriguez",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:37:23.640Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:49:10.288Z",
+      "contactName": "maikel Rodriguez"
     },
     {
       "id": "rZ1wEYELRAcmBsxH4Plb",
       "name": "J Jireh Interiors - Luis Banegas",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:34:00.312Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:47:08.738Z",
+      "contactName": "Luis Banegas"
     },
     {
       "id": "A60tnlrgpZQ4SyG51o4H",
       "name": "Matut Painting - Eduardo Matute",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:32:00.495Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:49:27.895Z",
+      "contactName": "Eduardo Matute"
     },
     {
       "id": "N3AHmPV3LboExv34d3WF",
       "name": "Master Painting",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:29:52.743Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:49:32.781Z",
+      "contactName": "Master Painting"
     },
     {
       "id": "7EJwBggWBHJxJtV8ZS7A",
       "name": "King Labardy Painting - claude",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:27:44.068Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:47:55.652Z",
+      "contactName": "claude"
     },
     {
       "id": "hKxNbv5CxwDTRht884Be",
       "name": "T & K Painting - Hugo ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:23:41.348Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:52:34.480Z",
+      "contactName": "T & K Painting"
     },
     {
       "id": "Iow21dAWoMRwR6uzKbR9",
       "name": "M.F.S.D - Robert ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:19:53.592Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:49:05.762Z",
+      "contactName": "M.F.S.D Inc"
     },
     {
       "id": "GjwkiuU1QedBsHCT3lT2",
       "name": "Andres Garcia",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T22:16:03.615Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:37:31.871Z",
+      "contactName": "Andres Garcia"
     },
     {
       "id": "aNcJibDVOwVulSH6ZVTn",
       "name": "Pedro Mendoza",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T20:50:44.210Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:51:53.821Z",
+      "contactName": "Pedro Mendoza"
     },
     {
       "id": "jBR1xtMJ20w2ivfmoEKS",
       "name": "EYC Professional Services - Edwar",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T20:48:25.628Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:44:48.418Z",
+      "contactName": "Edwar Carranza"
     },
     {
       "id": "R69KtSDIhOUZU9glmhuL",
       "name": "Alejandro Navarrete",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T20:44:45.724Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:43:10.143Z",
+      "contactName": "Alejandro Navarrete"
     },
     {
       "id": "dq5MnDmMcTH0dOhPJqMP",
       "name": "JDV LLC - Marco",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T20:43:51.053Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:47:12.979Z",
+      "contactName": "marco"
     },
     {
       "id": "h09AjA8IYKjFRQLeR1rP",
       "name": "Jose Castillo Fix",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T20:40:54.745Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:47:46.585Z",
+      "contactName": "Jose Castillo Fix"
     },
     {
       "id": "VkKjJ8DRRznrAsiTv3KS",
       "name": "Elite Properties - Adam",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T20:36:49.044Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:45:12.733Z",
+      "contactName": "adam"
     },
     {
       "id": "ewFu7tDrxK3tfLbM8CNZ",
       "name": "Danil Brizuela",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T20:34:19.125Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:44:25.409Z",
+      "contactName": "Danil"
     },
     {
       "id": "BI5PkJCOb0oobOua6ej3",
       "name": "Pedro Sandino",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-13T20:32:35.285Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:52:01.319Z",
+      "contactName": "Pedro Sandino"
     },
     {
       "id": "0HoAXhr7Z4q0P1hBCs44",
       "name": "Jordan Navaro",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:37:41.314Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:47:38.271Z",
+      "contactName": "jordan navaro"
     },
     {
       "id": "d3GfmZu3xBKaTYGTmLYW",
       "name": "Carlos Acosta",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:36:16.031Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:44:06.916Z",
+      "contactName": "carlos acosta"
     },
     {
       "id": "KSIIiDjEBACfFNTA9gKi",
       "name": "Leal Property Holding - Yerandys ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:34:54.471Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:49:01.302Z",
+      "contactName": "Yerandys leal"
     },
     {
       "id": "zbQLzxnTG1jKZeXsD9y8",
       "name": "Jesus Enrique",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:33:06.034Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:47:29.518Z",
+      "contactName": "jesus enrique"
     },
     {
       "id": "IguQrgS0ehu7of6iTupK",
       "name": "GV Quality Works - Alvaro",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:30:53.055Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:46:32.028Z",
+      "contactName": "Alvaro Gutierrez"
     },
     {
       "id": "1bCpgnGKC6XMow779uP4",
       "name": "Cay Renovations - Carla Martinez",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:25:59.673Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:44:10.920Z",
+      "contactName": "Carla Martinez"
     },
     {
       "id": "kdKiHBFDvyUcGNldrafF",
       "name": "Pablo Petien",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:23:50.809Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:51:36.706Z",
+      "contactName": "pablo Petien"
     },
     {
       "id": "Iso1xG5LFQYL6GzlPQM8",
       "name": "Rowan Design & Decor - Nick ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:21:28.974Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:52:19.339Z",
+      "contactName": "Nick rowan"
     },
     {
       "id": "GaX0SpEHC137bKwdnIj7",
       "name": "Jako Painting - Daniel ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:16:44.937Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:47:16.985Z",
+      "contactName": "Jako Painting"
     },
     {
       "id": "sGWROFmL5WiUXgshmPTm",
       "name": "Palmanova - Jorge",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:16:04.162Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:51:49.321Z",
+      "contactName": "Jorge"
     },
     {
       "id": "kKfaxX1n3yjVLqjNFpzi",
       "name": "Arce Painting ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:15:09.997Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:38:25.229Z",
+      "contactName": "Arce Painting Painting"
     },
     {
       "id": "uXakIDDxWFoBqTSyIDvY",
       "name": "Maur Solutions - Angel",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:13:37.650Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:49:37.326Z",
+      "contactName": "Maur Solutions"
     },
     {
       "id": "fp433o3Jd5OYsJAINifk",
       "name": "Yunier Gonzalez ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:04:11.379Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:53:01.427Z",
+      "contactName": "Yunier Gonzalez"
     },
     {
       "id": "CupYKL5qDhQ3AxDtlOWD",
       "name": "Ronald Avarado",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:03:08.708Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:52:15.168Z",
+      "contactName": "ronald avarado"
     },
     {
       "id": "uzYDMA8HGer532ALZwXY",
       "name": "VRG - Victor",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T16:00:04.348Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:52:52.219Z",
+      "contactName": "Victor"
     },
     {
       "id": "FWzLDsicBcMqa5sRSyG9",
       "name": "Tree Of Life - Darwin Raudales",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "32bf4711-a3ed-4f67-a444-05fa2577d9ea",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "32bf4711-a3ed-4f67-a444-05fa2577d9ea",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4.5",
       "createdAt": "2026-04-11T15:57:06.683Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:44:02.807Z",
+      "contactName": "Darwin Raudales"
     },
     {
       "id": "HgWwDioudmDf52uhi7HY",
       "name": "Rivera Fence - Darien",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T15:56:16.613Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:52:10.436Z",
+      "contactName": "rivera Fence"
     },
     {
       "id": "dyy1DzipEGhZIEgatySb",
       "name": "Luxury Flooring Construction - Marlon",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T15:43:06.967Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:48:14.667Z",
+      "contactName": "Luxury Flooring Construction"
     },
     {
       "id": "lcq8g54zRl18oRvTOmTT",
       "name": "Miami Tile Renovation",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T15:42:08.674Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:50:14.613Z",
+      "contactName": "Miami Tile Renovation"
     },
     {
       "id": "IOVKAVZoApWYgAFRTK3Z",
       "name": "Paint By Leyva Corp",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T15:30:42.748Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:51:45.408Z",
+      "contactName": "Paint By Leyva Corp"
     },
     {
       "id": "Tzrs5hb8WvYst5Nyqygp",
       "name": "Yves Trokel",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T15:20:26.286Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:53:05.497Z",
+      "contactName": "Yves Trokel"
     },
     {
       "id": "UPrlnmbptSN8tEKxwUdr",
       "name": "Jl Creative Finishes - Luis ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T15:17:52.824Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:47:34.135Z",
+      "contactName": "Jl Creative Finishish"
     },
     {
       "id": "AwQiedRgatiZex368KBG",
       "name": "Brother Solutions - Carlos Rodriguez",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T15:14:51.855Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:43:31.864Z",
+      "contactName": "Carlos Rodriguez"
     },
     {
       "id": "gz4ElV91GN3jSNxwS8BV",
       "name": "Excel Soir - James ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T15:13:52.359Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:45:36.478Z",
+      "contactName": "james"
     },
     {
       "id": "DBlGrAjuksDdPKvg1YSE",
       "name": "Dtorr Construction - sergio ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-11T15:09:12.070Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:44:43.443Z",
+      "contactName": "Dtorr Construction"
     },
     {
       "id": "Ob211d0IEupfhr1YN1sg",
       "name": "Imc - Ray ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "32bf4711-a3ed-4f67-a444-05fa2577d9ea",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "32bf4711-a3ed-4f67-a444-05fa2577d9ea",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4.5",
       "createdAt": "2026-04-10T01:22:31.728Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:36:58.235Z",
+      "contactName": "Imc"
     },
     {
       "id": "puj2upaqNwhDpg4QZxuo",
       "name": "C & C Painting - carlos",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-10T01:21:36.667Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:43:42.273Z",
+      "contactName": "carlos"
     },
     {
       "id": "U8eQeNrlyG15DpEMvMV4",
       "name": "Meze Enterprises - Richard Zelaya",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-10T01:12:32.421Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:49:41.450Z",
+      "contactName": "Richard Zelaya"
     },
     {
       "id": "eAzyh6ja1v03AUYVIMuj",
       "name": "K stratford",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-10T01:11:26.642Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:48:56.675Z",
+      "contactName": "K stratford"
     },
     {
       "id": "ilrJqP9vEswxyT0O11LU",
       "name": "Blackvale Construction - alfo",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-10T01:09:34.979Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:43:26.153Z",
+      "contactName": "alfo"
     },
     {
       "id": "nxUS4wDUj81ndp2KbOMh",
       "name": "Murillo Painting - Luis",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-10T01:08:08.957Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:51:08.463Z",
+      "contactName": "Luis"
     },
     {
       "id": "gy6h1NC1Eq5AKV6pm024",
       "name": "Hugo",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-10T01:05:55.159Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:46:53.639Z",
+      "contactName": "Hugo"
     },
     {
       "id": "BdM5Uhw4kxLqnYZ2WAFZ",
       "name": "Royal Painting - Kevin ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "6c02f0fe-ce9d-4a98-9f73-34af81218bca",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "6c02f0fe-ce9d-4a98-9f73-34af81218bca",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 5",
       "createdAt": "2026-04-10T01:04:06.743Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:37:03.758Z",
+      "contactName": "AA Royal Painting"
     },
     {
       "id": "C2sCY5KsNLqqT8o3Oo6P",
       "name": "DS Painting - Derin Fuentes",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "32bf4711-a3ed-4f67-a444-05fa2577d9ea",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "32bf4711-a3ed-4f67-a444-05fa2577d9ea",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4.5",
       "createdAt": "2026-04-10T01:03:08.703Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:42:35.799Z",
+      "contactName": "Derin Fuentes"
     },
     {
       "id": "fZ0jibvhKkY1Cd0TSogk",
       "name": "F Melendez Corp",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-10T01:01:55.034Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:45:51.033Z",
+      "contactName": "F Melendez Corp"
     },
     {
       "id": "yE5Jd5RnopxsT3fcITGm",
       "name": "City Wide",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-10T01:01:06.120Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:44:15.520Z",
+      "contactName": "City Wide"
     },
     {
       "id": "g3KRF9JgENdyb51h9y3D",
       "name": "Abaziros Painting",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-10T01:00:07.035Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:42:51.226Z",
+      "contactName": "Abaziros Painting"
     },
     {
       "id": "RSJ3p6S1HnVA96TMR88S",
       "name": "Miami Vaction Rentals",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
       "monetaryValue": 0,
+      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
+      "stageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
+      "pipelineName": "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)",
+      "stageName": "MONTHLY CHECK IN - 4",
       "createdAt": "2026-04-10T00:57:43.312Z",
-      "status": "open"
+      "updatedAt": "2026-04-24T21:50:36.896Z",
+      "contactName": "Miami Vaction Rentals"
     },
     {
       "id": "liFq4t0HUNCcupoWM1nu",
       "name": "S&S Paint&Cleaning",
+      "monetaryValue": 0,
       "pipelineId": "monNWHYvoRs6Wcc69OrK",
-      "pipelineStageId": "2e6dde82-f712-4513-8897-2b080e3ba2f4",
-      "monetaryValue": 0,
+      "stageId": "2e6dde82-f712-4513-8897-2b080e3ba2f4",
+      "pipelineName": "CONTRACTOR - TIER 4 - [HAVE NOT PURCHASED FROM US]",
+      "stageName": "REASEARCH / STAGNANT CUSTOMER",
       "createdAt": "2026-04-10T00:56:42.768Z",
-      "status": "open"
-    },
-    {
-      "id": "pcg8abE3LnD2dbYP119j",
-      "name": "Edison Virguez",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
-      "monetaryValue": 0,
-      "createdAt": "2026-04-10T00:54:39.782Z",
-      "status": "open"
-    },
-    {
-      "id": "DMTpzSG0AVu9lejTdWDs",
-      "name": "G&A - Ariel ",
-      "pipelineId": "OjhmKgGrSyoRKoZv7P8t",
-      "pipelineStageId": "036b55c8-6e8b-406e-9ed0-ea8266ba8331",
-      "monetaryValue": 0,
-      "createdAt": "2026-04-10T00:53:14.213Z",
-      "status": "open"
+      "updatedAt": "2026-04-10T02:11:41.935Z",
+      "contactName": "S&S Paint&Cleaning"
     }
-  ]
+  ],
+  "total": 100,
+  "byPipeline": {
+    "MAINTENANCE - CENTRAL MIAMI - O": 2,
+    "MAINTENANCE - MIAMI BEACH - O": 3,
+    "CONTRACTOR - TIER 1 - (CREDIT ACCOUNTS)": 1,
+    "MAINTENANCE - NORTH MIAMI BEACH - 0": 5,
+    "CONTRACTOR - TIER 2 - (CANDIDATES FOR TIER 1)": 5,
+    "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)": 78,
+    "MAINTENANCE - REGIONAL ACCOUNTS": 1,
+    "MAINTENANCE - CENTRAL MIAMI - R": 1,
+    "XSALES - B2C - STORE": 2,
+    "MAINTENANCE - MIAMI BEACH - R": 1,
+    "CONTRACTOR - TIER 4 - [HAVE NOT PURCHASED FROM US]": 1
+  },
+  "byPipelineStage": {
+    "MAINTENANCE - CENTRAL MIAMI - O": {
+      "PRICE LIST OR APPLICATION SENT ": 1,
+      "LOST": 1
+    },
+    "MAINTENANCE - MIAMI BEACH - O": {
+      "SENT": 2,
+      "MADE CONTACT W/ DECSION MAKER": 1
+    },
+    "CONTRACTOR - TIER 1 - (CREDIT ACCOUNTS)": {
+      "MONTHLY CHECK IN #5": 1
+    },
+    "MAINTENANCE - NORTH MIAMI BEACH - 0": {
+      "SENT": 1,
+      "MADE CONTACT W DESCION MAKER ": 2,
+      "PROSPECTS": 1,
+      "LOST": 1
+    },
+    "CONTRACTOR - TIER 2 - (CANDIDATES FOR TIER 1)": {
+      "MONTHLY CHECK IN #4": 5
+    },
+    "CONTRACTOR - TIER 3 -  (CASH CUSTOMERS)": {
+      "MONTHLY CHECK IN - 4": 74,
+      "MONTHLY CHECK IN - 4.5": 3,
+      "MONTHLY CHECK IN - 5": 1
+    },
+    "MAINTENANCE - REGIONAL ACCOUNTS": {
+      "Prospects ": 1
+    },
+    "MAINTENANCE - CENTRAL MIAMI - R": {
+      "MONTHLY CHECK-IN - 4.5": 1
+    },
+    "XSALES - B2C - STORE": {
+      "Prospect": 2
+    },
+    "MAINTENANCE - MIAMI BEACH - R": {
+      "MONTHLY CHECK-IN - 1": 1
+    },
+    "CONTRACTOR - TIER 4 - [HAVE NOT PURCHASED FROM US]": {
+      "REASEARCH / STAGNANT CUSTOMER": 1
+    }
+  }
 }
